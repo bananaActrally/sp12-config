@@ -9,7 +9,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 @EnableDiscoveryClient
 @SpringBootApplication
 public class Sp12ConfigApplication {
-
+//
 	public static void main(String[] args) {
 		SpringApplication.run(Sp12ConfigApplication.class, args);
 	}
